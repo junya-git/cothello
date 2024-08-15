@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cothello
 ===
 
@@ -7,3 +8,6 @@ cothello
 
 > Cython-based othello environment for the advance machine learning course.
 
+=======
+# cothello
+>>>>>>> 00b8c578b47c390fcbe8229605fd434cf6281591
